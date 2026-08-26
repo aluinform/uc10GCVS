@@ -3,9 +3,12 @@
  ### Título 3
 #Negrito:
 **texto**
-__texto__
+__texto__  
+
+
 #Itálico:
 *texto*
 _texto_
+
 #Tachado:
 ~~texto~~
