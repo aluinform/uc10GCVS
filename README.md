@@ -11,3 +11,6 @@ _texto_
 
 #Tachado:
 ~~texto~~
+
+
+[GOOGLE](http://www.google.com)
